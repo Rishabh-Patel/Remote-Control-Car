@@ -16,4 +16,4 @@ Components Required-
 
 NOTE-1)COM3 driver must be installed in pc in order to detect the esp32 board.
 
-2)
+2)Two motors each side should be shorted.
